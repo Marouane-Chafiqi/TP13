@@ -1,6 +1,4 @@
-
-https://github.com/user-attachments/assets/e6a532d6-cdb9-40b2-b014-5a6dfbbb849e
-# TP13 - Sérialisation
+# TP13
 
 # Exercice 1 - Sérialisation et désérialisation avec Serializable
 
@@ -29,4 +27,4 @@ https://github.com/user-attachments/assets/1bd7734c-866d-46b1-8b83-4e5bfc95c430
 
 <img width="1280" height="668" alt="21" src="https://github.com/user-attachments/assets/0c940f87-99c3-4c49-afdc-49ddee584263" />
 
-Uploading 23.mp4…
+https://github.com/user-attachments/assets/1cbc756a-6f01-499a-b66f-5153ad175d9f
